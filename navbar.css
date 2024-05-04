@@ -1,0 +1,26 @@
+.nav-logo{
+    height: 3vh;
+    margin-left: 1vw;
+}
+
+.nav-link, .nav-link.active{
+    color: white !important;
+    margin-left: 100px;
+    font-weight: lighter;
+}
+
+.navbar-brand {
+    margin-right: auto; /* Push logo to the left */
+}
+
+.navbar-nav {
+    margin-left: auto; /* Push links to the right */
+}
+
+.navbar-collapse{
+    flex-grow: unset;
+}
+
+.navbar{
+    height: 10vh;
+}
