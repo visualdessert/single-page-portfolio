@@ -18,7 +18,8 @@ html, body {
 }
 
 #contactForm{
-    width: 35vw;
+    width: 20vw;
+    /* margin-right: 50px; */
 }
 
 .text-white{
@@ -39,6 +40,7 @@ html, body {
 
 .gmap{
     border-radius: 8px;
+    margin-left: 100px;
 }
 
 #form-map-cont{
