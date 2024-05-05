@@ -2,6 +2,7 @@
     width: 30vw;
     height: 80vh;
     border: none;
+    background-color: #242424; /* Change this to your desired color */
 }
 
 #cards{
@@ -45,6 +46,7 @@
     flex-grow: unset;
     flex-direction: column;
     align-items: flex-start; /* Align items to the start (left) */
+    
 }
 
 .cont-card-inner {
@@ -54,3 +56,7 @@
 .card-desc{
     text-align: justify;
 }
+
+.card-title, .card-text, .card-desc {
+    color: #ffffff; /* Change this to your desired text color */
+  }
